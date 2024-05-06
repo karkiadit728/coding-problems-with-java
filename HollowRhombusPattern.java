@@ -1,4 +1,4 @@
-public class HollowRombusPattern {
+public class HollowRhombusPattern {
     public static String createDuplicateString(int size, char letter) {
         String duplicateString = "";
         for (int i = 0; i <= size; i++) {
